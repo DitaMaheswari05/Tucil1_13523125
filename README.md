@@ -23,7 +23,7 @@ java -version
   ```
   cd Tucil1_13523125/src
   ```
-  **6.** Jalankan program menggunakan perintah
+  **6.** Jalankan program PuzzleSolver.java menggunakan perintah
   ```
   # Untuk Windows
   javac PuzzleSolver.java
@@ -33,6 +33,7 @@ java -version
   javac PuzzleSolver.java
   java PuzzleSolver
   ```
+  atau bisa juga menjalankan file dengan run langsung di VSCode dengan mengklik "Run Main" pada bagian "public static void Main"
   **7.** Ikuti petunjuk yang muncul pada program untuk memasukkan input yang diperlukan.   
   **Notes :** Jika ingin membuat file *.txt* baru (untuk menambah macam input), jangan lupa untuk memasukkan file tersebut ke dalam folder test.
 
