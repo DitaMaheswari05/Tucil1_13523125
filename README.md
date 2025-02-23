@@ -1,5 +1,5 @@
 # Tucil1_13523125
-Tugas Kecil 1 IF 2211 Strategi Algoritma
+Tugas Kecil 1 IF2211 Strategi Algoritma
 
 ## **Deskripsi Program**
 Program ini merupakan salah satu tugas dari mata kuliah Strategi Algoritma dan menggunakan bahasa Java untuk pembuatannya. Program ini bertujuan untuk menyelesaikan permainan IQ Puzzler Pro dengan menggunakan pendekatan algoritma *brute force*. IQ Puzzler Pro adalah permainan teka-teki logika yang dibuat oleh SmartGames, yaitu sebuah perusahaan yang terkenal dengan berbagai permainan puzzle logika yang menantang. Pengguna akan dimintai input oleh program berupa file *.txt* yang berisi bagian-bagian puzzle yang harus diselesaikan. Kemudian, program akan mencari solusi menggunakan algoritma *brute force* dan menampilkan hasilnya.
